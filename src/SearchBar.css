@@ -1,0 +1,18 @@
+.search-bar {
+    border: 5px solid black;
+    margin:auto 50px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.search-form {
+    text-align: center;
+    text
+    label {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
+label {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-size:20px;
+}
